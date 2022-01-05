@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Rodrigo Ferrarezi Figueiredo de Lima! 👋
 
 - 🔭 Atualmente trabalho com backend usando C# e desenvolvimento de APIs. Quanto ao banco de dados, trabalho com o SQL Server.
-- 🌱 Estou estudando React-Native juntamente com JavaScript/TypeScript e NodeJS. Proximos passos são me aventurar Redux, MongoDB e Firebase!
+- 🌱 Estou estudando React-Native/ReactJS juntamente com JavaScript/TypeScript e NodeJS. Proximos passos são me aventurar Redux, MongoDB e Firebase!
 - 😄 Pronouns: ele/dele.
 
 <div align="center">
